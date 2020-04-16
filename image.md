@@ -2,6 +2,6 @@
 
 ![Create myMovies collection Screenshot](https://res.cloudinary.com/alchemist22/image/upload/v1587056942/CreateInterns.png)
 
-![Database Created Screenshot](https://res.cloudinary.com/alchemist22/image/upload/v1585665021/Alchemist_.png)
+![Find Interns screenshot](https://res.cloudinary.com/alchemist22/image/upload/v1587056992/FindInterns.png)
 
-![Interns Collection Created Screenshot](https://res.cloudinary.com/alchemist22/image/upload/v1585665283/Interns.png)
+![Update Interns Screenshot](https://res.cloudinary.com/alchemist22/image/upload/v1587057023/UpdateInterns.png)
